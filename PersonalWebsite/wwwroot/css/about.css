@@ -1,0 +1,13 @@
+﻿body {
+}
+
+.contact-info {
+    text-align: center;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+h2 {
+    text-align:center;
+}
