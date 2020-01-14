@@ -5,7 +5,11 @@ img {
     margin: 6px 0;
 }
 
-
+.nav-link:hover, .navbar-brand:hover {
+    background-color: lightgrey;
+    color: white;
+}
+ 
 .display-4 {
 
     margin-top:2em;
