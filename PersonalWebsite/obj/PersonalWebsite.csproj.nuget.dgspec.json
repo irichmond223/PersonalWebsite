@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\C#\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj": {}
+    "C:\\Users\\Ilona R\\source\\repos\\Front-End\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\C#\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj": {
+    "C:\\Users\\Ilona R\\source\\repos\\Front-End\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\C#\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\Ilona R\\source\\repos\\Front-End\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj",
         "projectName": "PersonalWebsite",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\C#\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\C#\\PersonalWebsite\\PersonalWebsite\\obj\\",
+        "projectPath": "C:\\Users\\Ilona R\\source\\repos\\Front-End\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj",
+        "packagesPath": "C:\\Users\\Ilona R\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ilona R\\source\\repos\\Front-End\\PersonalWebsite\\PersonalWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ilona R\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
