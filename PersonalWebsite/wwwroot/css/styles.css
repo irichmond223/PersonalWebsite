@@ -6,8 +6,9 @@ img {
 }
 
 .nav-link:hover, .navbar-brand:hover {
-    background-color: lightgrey;
+    background-color: #D3D3D3;
     color: white;
+    text-decoration:underline;
 }
  
 .display-4 {
