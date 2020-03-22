@@ -1,0 +1,186 @@
+﻿
+.rounded-img {
+    width: 15em;
+    height: 10em;
+    margin: 6px 0;
+}
+
+.nav-link:hover, .navbar-brand:hover {
+    background-color: #D3D3D3;
+    color: white;
+    text-decoration:underline;
+}
+ 
+.display-4 {
+
+    margin-top:2em;
+    font-size: 3em;
+    
+}
+.links {
+    font-size: 1.5em;
+}
+h5 {
+    font-size:2em;
+}
+p {
+    margin-top: 2em;
+    font-size:1.5em;
+}
+
+    /*.flex, .main-blogging, .main-developing, .main-hometown {
+    display:flex;
+    flex-direction:column;
+}*/
+    h3 {
+    text-align: center;
+}
+.flex, .main-blogging, .main-developing, .main-hometown {
+    display: flex;
+    margin-top: 2em;
+    flex-direction: column;
+}
+
+.main-blogging, .main-developing, .main-hometown {
+   
+    margin-right: 1em;
+}
+
+    .main-blogging:hover, .main-developing:hover, .main-hometown:hover {
+        background: #D3D3D3;
+        color: white;
+    }
+
+.main-blogging, .main-developing, .main-hometown {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 2em;
+    padding: 2em;
+    text-align: center;
+}
+
+@media only screen and (min-width: 700px) {
+
+
+    body {
+    }
+
+    .display-4 {
+        margin-top: 2em;
+        color: white;
+        padding-bottom: .5em;
+    }
+
+    .nav-flex {
+        display: flex;
+    }
+
+    .nav-item {
+        justify-items: flex-end;
+    }
+
+    .flex-grow-1 {
+        flex-grow: 0 !important;
+    }
+
+    .navbar {
+        position: fixed !important;
+        top: 0;
+        width: 100%;
+    }
+
+    .flex, .main-blogging, .main-developing, .main-hometown {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main-blogging, .main-developing, .main-hometown {
+        flex-direction: column;
+        align-items: center;
+        margin-right: 1em;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        padding: 2em;
+        text-align: center;
+    }
+
+        .main-blogging:hover, .main-developing:hover, .main-hometown:hover {
+            background: #D3D3D3;
+            color: white;
+        }
+
+    .links {
+        padding: 0;
+        font-size: 30px;
+        padding-right: .3em;
+        text-align: center;
+    }
+
+    .contact-info {
+        text-align: center;
+        flex-direction: row;
+        display: flex;
+        justify-content: center;
+        text-align: left;
+    }
+
+    .nav-item:hover {
+        color: lightgrey;
+    }
+
+    h3 {
+        text-align: center;
+    }
+
+    h5 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 25px;
+    }
+
+    p {
+        font-family: Arial Verdana;
+        font-size: 20px;
+    }
+
+    .about-me {
+        margin-top: 5em;
+    }
+
+    .rounded-img {
+        border-radius: 50%;
+        padding: 0 6px;
+        float: left;
+    }
+
+    .logo-image {
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        height: 35em;
+        margin-top: 3.5em;
+        position: absolute;
+        left: 0;
+        right: 15em;
+        opacity: .2;
+        background-image: linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.5) );
+        width: 100%;
+        position: fixed;
+        overflow: auto;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(200,100,0,.5);
+    }
+
+    .col {
+        text-align: center;
+        padding-top: 1.4em;
+    }
+
+    .adds-space {
+        padding-top: 2em;
+    }
+
+    .btn btn-lg display-1:hover {
+    background-color: lightgray;
+    color: black;
+}
+}
+
